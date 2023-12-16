@@ -1,0 +1,16 @@
+body{
+    background-color: darkgray;
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.receipt{
+    text-align: center;
+    background-color: gainsboro;
+    padding: 10vmin;
+    margin-left: 20vmin;
+    margin-right: 20vmin;
+    border: 2px black double;
+    border-radius: 5vmin;
+}
